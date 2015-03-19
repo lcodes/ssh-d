@@ -1,0 +1,7 @@
+{
+    "name":        "ssh-d",
+    "description": "D bindings to the ssh library.",
+    "copyright":   "Copyright © 2015, Jeremie Pelletier",
+    "authors":     ["Jeremie Pelletier"],
+    "libs":        ["ssh"]
+}
